@@ -1,7 +1,7 @@
 {
   "name": "grunt-tsd",
   "description": "Grunt plugin to run TSD",
-  "version": "0.2.0-beta.1",
+  "version": "0.2.0-1",
   "homepage": "https://github.com/DefinitelyTyped/grunt-tsd",
   "author": {
     "name": "Bart van der Schoor",
